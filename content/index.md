@@ -1,17 +1,17 @@
 # 📈 VSL Funnel Dashboard
 
-_Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend from Meta. Updated 11 Sep 2026, 04:01 BST, rebuilds nightly._
+_Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend from Meta. Updated 12 Sep 2026, 04:01 BST, rebuilds nightly._
 
 ## 🎯 The headline — both funnels combined
 
 | | |
 |---|---|
-| **Blended CPA** | **£534** |
-| Total spend | **£3,739.08** |
+| **Blended CPA** | **£570** |
+| Total spend | **£3,987.05** |
 | Total signups | **7** |
 | Who signed | Conor, Harry, Joe Gray-Misiuk, Kirstie Hall, Musa Rahat, Tarik Merrett, Zeeshan Ahmed |
 
-> £3,739 spent → 7 signed = **£534 blended cost per signup.** VSL 1.0 (mass avatar) and VSL 2.0 (upgraded avatar) share the load: cheap high-volume + premium low-volume blend into one true acquisition cost.
+> £3,987 spent → 7 signed = **£570 blended cost per signup.** VSL 1.0 (mass avatar) and VSL 2.0 (upgraded avatar) share the load: cheap high-volume + premium low-volume blend into one true acquisition cost.
 
 ---
 
@@ -19,13 +19,13 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Metric | VSL 1.0 | VSL 2.0 | Combined |
 |---|---|---|---|
-| 🎯 **CPA** | **£637** | **£278** | **£534** |
+| 🎯 **CPA** | **£670** | **£317** | **£570** |
 | 🤝 Signed | 5 | 2 | **7** |
-| 💷 Spent | £3,182.65 | £556.43 | **£3,739.08** |
+| 💷 Spent | £3,352.44 | £634.61 | **£3,987.05** |
 | ✅ Showed up | 11 | 2 | **13** |
-| 📞 GGPs booked | 29 | 2 | **31** |
-| 📝 Applications | 71 | 4 | **75** |
-| 👀 Opt-ins | 149 | 14 | **163** |
+| 📞 GGPs booked | 32 | 2 | **34** |
+| 📝 Applications | 73 | 4 | **77** |
+| 👀 Opt-ins | 152 | 14 | **166** |
 
 ---
 
@@ -39,22 +39,22 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Metric | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| 💷 Spent | £2,864.10 | £318.55 | **£3,182.65** |
-| 👀 Opt-ins | 111 | 34 | **149** |
-| 📝 Applications | 59 | 12 | **72** |
-| 📞 GGPs booked | 22 | 7 | **30** |
+| 💷 Spent | £2,998.98 | £353.46 | **£3,352.44** |
+| 👀 Opt-ins | 113 | 35 | **152** |
+| 📝 Applications | 61 | 12 | **74** |
+| 📞 GGPs booked | 25 | 7 | **33** |
 | ✅ Showed up | 11* | 0* | **11*** |
 | 🤝 Signed | 5 | 0 | **5** |
 
-> \* Of those booked, **6** have a call date of today or later (3 UK&I, 3 US&CA) — not yet had a chance to show up. Show rate will firm up as those calls run.
+> \* Of those booked, **7** have a call date of today or later (4 UK&I, 3 US&CA) — not yet had a chance to show up. Show rate will firm up as those calls run.
 
 **Rates**
 
 | Step | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| Opt-in → Application | 53% | 35% | **48%** |
-| Application → GGP booked | 37% | 58% | **42%** |
-| GGP show rate | 50% | 0% | **37%** |
+| Opt-in → Application | 54% | 34% | **49%** |
+| Application → GGP booked | 41% | 58% | **45%** |
+| GGP show rate | 44% | 0% | **33%** |
 | Show → Sign | 45% | 0% | **45%** |
 | Application → Sign | 8% | 0% | **7%** |
 
@@ -62,17 +62,17 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Cost | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| Cost per application | £49 | £27 | **£44** |
-| Cost per GGP booked | £130 | £46 | **£106** |
-| Cost per show-up | £260 | — | **£289** |
-| **Cost per acquisition (CPA)** | **£573** | **—** | **£637** |
+| Cost per application | £49 | £29 | **£45** |
+| Cost per GGP booked | £120 | £50 | **£102** |
+| Cost per show-up | £273 | — | **£305** |
+| **Cost per acquisition (CPA)** | **£600** | **—** | **£670** |
 
 **Ad spend split**
 
 | Band | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| 🔥 Warm | £1,653.44 | £159.37 | **£1,812.81** |
-| ❄️ Cold | £1,210.66 | £159.18 | **£1,369.84** |
+| 🔥 Warm | £1,740.56 | £177.17 | **£1,917.73** |
+| ❄️ Cold | £1,258.42 | £176.29 | **£1,434.71** |
 
 > 🤝 Signed — Joe Gray-Misiuk, Kirstie Hall, Musa Rahat, Tarik Merrett, Zeeshan Ahmed
 
@@ -91,7 +91,7 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Metric | Value |
 |---|---|
-| 💷 Spent | **£556.43** |
+| 💷 Spent | **£634.61** |
 | 👀 Opt-ins | **14** |
 | 📝 Applications | **4** |
 | 📞 GGPs booked | **2** |
@@ -112,15 +112,15 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Cost | Value |
 |---|---|
-| Cost per application | £139 |
-| Cost per GGP booked | £278 |
-| Cost per show-up | £278 |
-| **Cost per acquisition (CPA)** | **£278** |
+| Cost per application | £159 |
+| Cost per GGP booked | £317 |
+| Cost per show-up | £317 |
+| **Cost per acquisition (CPA)** | **£317** |
 
 **Ad spend split**
 
-- 🔥 Warm: £319.82
-- ❄️ Cold: £236.61
+- 🔥 Warm: £370.66
+- ❄️ Cold: £263.95
 
 ![VSL 2.0 — upgraded avatar — funnel](vsl2_funnel_stages.png)
 
@@ -137,4 +137,4 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 > _Applications + GGP-booked are TRUE daily series (from submission timestamps). Opt-ins have no per-day source in the Opt-ins tab, so opt-ins appear as a total only, not a daily line._
 
 ---
-<!-- Auto-generated by the VSL dashboard nightly pipeline. Do not edit by hand. 11 Sep 2026, 04:01 BST -->
+<!-- Auto-generated by the VSL dashboard nightly pipeline. Do not edit by hand. 12 Sep 2026, 04:01 BST -->
