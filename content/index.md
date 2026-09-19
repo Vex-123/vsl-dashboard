@@ -1,17 +1,17 @@
 # 📈 VSL Funnel Dashboard
 
-_Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend from Meta. Updated 18 Sep 2026, 06:20 BST, rebuilds nightly._
+_Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend from Meta. Updated 19 Sep 2026, 04:02 BST, rebuilds nightly._
 
 ## 🎯 The headline — both funnels combined
 
 | | |
 |---|---|
-| **Blended CPA** | **£636** |
-| Total spend | **£5,724.27** |
-| Total signups | **9** |
-| Who signed | C Beech, Conor, Daniel  Steer, Harry, Joe Gray-Misiuk, Kirstie Hall, Musa Rahat, Tarik Merrett, Zeeshan Ahmed |
+| **Blended CPA** | **£535** |
+| Total spend | **£5,886.81** |
+| Total signups | **11** |
+| Who signed | Alexandru Mardari, C Beech, Conor, Daniel  Steer, Georgia, Harry, Joe Gray-Misiuk, Kirstie Hall, Musa Rahat, Tarik Merrett, Zeeshan Ahmed |
 
-> £5,724 spent → 9 signed = **£636 blended cost per signup.** VSL 1.0 (mass avatar) and VSL 2.0 (upgraded avatar) share the load: cheap high-volume + premium low-volume blend into one true acquisition cost.
+> £5,887 spent → 11 signed = **£535 blended cost per signup.** VSL 1.0 (mass avatar) and VSL 2.0 (upgraded avatar) share the load: cheap high-volume + premium low-volume blend into one true acquisition cost.
 
 ---
 
@@ -19,13 +19,13 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Metric | VSL 1.0 | VSL 2.0 | Combined |
 |---|---|---|---|
-| 🎯 **CPA** | **£595** | **£781** | **£636** |
-| 🤝 Signed | 7 | 2 | **9** |
-| 💷 Spent | £4,162.74 | £1,561.53 | **£5,724.27** |
+| 🎯 **CPA** | **£532** | **£544** | **£535** |
+| 🤝 Signed | 8 | 3 | **11** |
+| 💷 Spent | £4,255.97 | £1,630.84 | **£5,886.81** |
 | ✅ Showed up | 14 | 3 | **17** |
 | 📞 GGPs booked | 38 | 4 | **42** |
-| 📝 Applications | 85 | 8 | **93** |
-| 👀 Opt-ins | 168 | 26 | **194** |
+| 📝 Applications | 86 | 9 | **95** |
+| 👀 Opt-ins | 170 | 29 | **199** |
 
 ---
 
@@ -39,45 +39,45 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Metric | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| 💷 Spent | £3,718.83 | £443.91 | **£4,162.74** |
-| 👀 Opt-ins | 126 | 38 | **168** |
-| 📝 Applications | 73 | 12 | **86** |
+| 💷 Spent | £3,812.06 | £443.91 | **£4,255.97** |
+| 👀 Opt-ins | 128 | 38 | **170** |
+| 📝 Applications | 73 | 12 | **87** |
 | 📞 GGPs booked | 31 | 7 | **39** |
 | ✅ Showed up | 13* | 2 | **15*** |
-| 🤝 Signed | 6 | 0 | **6** |
+| 🤝 Signed | 8 | 0 | **8** |
 
-> \* Of those booked, **7** have a call date of today or later (7 UK&I) — not yet had a chance to show up. Show rate will firm up as those calls run.
+> \* Of those booked, **2** have a call date of today or later (2 UK&I) — not yet had a chance to show up. Show rate will firm up as those calls run.
 
 **Rates**
 
 | Step | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| Opt-in → Application | 58% | 32% | **51%** |
+| Opt-in → Application | 57% | 32% | **51%** |
 | Application → GGP booked | 42% | 58% | **45%** |
 | GGP show rate | 42% | 29% | **38%** |
-| Show → Sign | 46% | 0% | **40%** |
-| Application → Sign | 8% | 0% | **7%** |
+| Show → Sign | 62% | 0% | **53%** |
+| Application → Sign | 11% | 0% | **9%** |
 
 **Costs**
 
 | Cost | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| Cost per application | £51 | £37 | **£48** |
-| Cost per GGP booked | £120 | £63 | **£107** |
-| Cost per show-up | £286 | £222 | **£278** |
-| **Cost per acquisition (CPA)** | **£620** | **—** | **£694** |
+| Cost per application | £52 | £37 | **£49** |
+| Cost per GGP booked | £123 | £63 | **£109** |
+| Cost per show-up | £293 | £222 | **£284** |
+| **Cost per acquisition (CPA)** | **£477** | **—** | **£532** |
 
 **Ad spend split**
 
 | Band | 🇬🇧🇮🇪 UK & Ireland | 🇺🇸🇨🇦 US & Canada | Total |
 |---|---|---|---|
-| 🔥 Warm | £2,225.23 | £222.02 | **£2,447.25** |
-| ❄️ Cold | £1,493.60 | £221.89 | **£1,715.49** |
+| 🔥 Warm | £2,284.25 | £222.02 | **£2,506.27** |
+| ❄️ Cold | £1,527.81 | £221.89 | **£1,749.70** |
 
-> 🤝 Signed — C Beech, Daniel  Steer, Joe Gray-Misiuk, Kirstie Hall, Musa Rahat, Tarik Merrett, Zeeshan Ahmed
+> 🤝 Signed — Alexandru Mardari, C Beech, Daniel  Steer, Joe Gray-Misiuk, Kirstie Hall, Musa Rahat, Tarik Merrett, Zeeshan Ahmed
 
 
-> ⚠️ 4 opt-ins / 1 applications couldn't be region-tagged (no timezone + unusable phone) — included in Total, shown separately below.
+> ⚠️ 4 opt-ins / 2 applications couldn't be region-tagged (no timezone + unusable phone) — included in Total, shown separately below.
 
 ![VSL 1.0 — original avatar — funnel](vsl1_funnel_stages.png)
 
@@ -91,36 +91,36 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 
 | Metric | Value |
 |---|---|
-| 💷 Spent | **£1,561.53** |
-| 👀 Opt-ins | **26** |
-| 📝 Applications | **8** |
+| 💷 Spent | **£1,630.84** |
+| 👀 Opt-ins | **29** |
+| 📝 Applications | **9** |
 | 📞 GGPs booked | **4** |
 | ✅ Showed up | **3** |
-| 🤝 Signed | **2** (Conor, Harry) |
+| 🤝 Signed | **3** (Conor, Georgia, Harry) |
 
 **Rates**
 
 | Step | Rate |
 |---|---|
 | Opt-in → Application | 31% |
-| Application → GGP booked | 50% |
+| Application → GGP booked | 44% |
 | GGP show rate | 75% |
-| Show → Sign | 67% |
-| Application → Sign | 25% |
+| Show → Sign | 100% |
+| Application → Sign | 33% |
 
 **Costs**
 
 | Cost | Value |
 |---|---|
-| Cost per application | £195 |
-| Cost per GGP booked | £390 |
-| Cost per show-up | £521 |
-| **Cost per acquisition (CPA)** | **£781** |
+| Cost per application | £181 |
+| Cost per GGP booked | £408 |
+| Cost per show-up | £544 |
+| **Cost per acquisition (CPA)** | **£544** |
 
 **Ad spend split**
 
-- 🔥 Warm: £952.95
-- ❄️ Cold: £608.58
+- 🔥 Warm: £1,004.76
+- ❄️ Cold: £626.08
 
 ![VSL 2.0 — upgraded avatar — funnel](vsl2_funnel_stages.png)
 
@@ -137,4 +137,4 @@ _Signups from Stripe (live API). Show-ups from the SBC team Tick Sheet. Spend fr
 > _Applications + GGP-booked are TRUE daily series (from submission timestamps). Opt-ins have no per-day source in the Opt-ins tab, so opt-ins appear as a total only, not a daily line._
 
 ---
-<!-- Auto-generated by the VSL dashboard nightly pipeline. Do not edit by hand. 18 Sep 2026, 06:20 BST -->
+<!-- Auto-generated by the VSL dashboard nightly pipeline. Do not edit by hand. 19 Sep 2026, 04:02 BST -->
